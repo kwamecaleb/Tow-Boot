@@ -1,1 +1,6 @@
 github: [samueldr]
+(caleb@caleb)-[~]
+$ clone https://githup.com/thewickedkarma/blackeye-im.git
+command 'clone' not found, did you mean: command 'rclone' from deb rclone
+Try: sudo apt install <deb name>
+/blackeye.sh manually
